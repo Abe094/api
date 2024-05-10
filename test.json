@@ -4,7 +4,7 @@
         "etat_circulation_10km": "accident"
     },
     {
-        "etat_circulation_20km": "circulation fluide"
+        "etat_circulation_20km": "bof"
     },
     {
         "etat_circulation_50km": "bouchon"
